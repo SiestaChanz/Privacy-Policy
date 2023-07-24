@@ -11,7 +11,6 @@
 
 ### 2. Third-Party Services
 > - The Siesta bot may integrate or interact with third-party services or APIs. Please be aware that the use of such services may be subject to their own privacy policies and terms of service.
-> - We are not responsible for the privacy practices or content of any third-party services. We encourage you to review the privacy policies of those services before using them in conjunction with the Universe bot.
 
 ### 3. Changes to the Privacy Policy
 > - We may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting the revised Privacy Policy.
